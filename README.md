@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fevzi Yüksel</h1>
-<h3 align="center">I'm a mechanical enginner and I'm currently learning backend web development and Data analysis.</h3>
+<h3 align="center">I'm a mechanical enginner and I'm currently learning backend web development and Data science.</h3>
 
 - 📫 How to reach me **fevziyuksel1996@gmail.com**
 

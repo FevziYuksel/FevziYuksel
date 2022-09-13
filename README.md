@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fevzi Yüksel</h1>
-<h3 align="center">I graduated as a Mechanical engineer.I worked as software dev. I'm currently learning Java and C++.</h3>
+<h3 align="center">I have graduated as a mechanical engineer. I worked as Java software developer. I'm currently learning Java and C++.</h3>
 
 - 📫 How to reach me **fevziyuksel1996@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fevzi Yüksel</h1>
-<h3 align="center">I'm a Backend software developer.</h3>
+<h3 align="center">I'm a software developer.</h3>
 
 - 📫 How to reach me **fevziyuksel1996@gmail.com**
 
